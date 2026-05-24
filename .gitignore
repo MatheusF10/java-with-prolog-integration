@@ -1,0 +1,19 @@
+# Ignore Java compiled bytecode output directory
+bin/
+*.class
+
+# Ignore OS-generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Ignore IDE specific files and folders (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Ignore log files
+*.log
